@@ -24,55 +24,55 @@ const templates: Template[] = [
   {
     id: '1',
     name: 'Professional',
-    image: 'src/assets/img1.jpeg',
+    image: 'public/assets/img1.jpeg',
     category: 'Business'
   },
   {
     id: '2',
     name: 'Creative',
-    image: 'src/assets/img2.jpeg',
+    image: 'public/assets/img2.jpeg',
     category: 'Design'
   },
   {
     id: '3',
     name: 'Technical',
-    image: 'src/assets/img3.jpeg',
+    image: 'public/assets/img3.jpeg',
     category: 'IT & Engineering'
   },
   {
     id: '4',
     name: 'Academic',
-    image: 'src/assets/img4.jpeg',
+    image: 'public/assets/img4.jpeg',
     category: 'Education'
   },
   {
     id: '5',
     name: 'Executive',
-    image: 'src/assets/img5.jpeg',
+    image: 'public/assets/img5.jpeg',
     category: 'Leadership'
   },
   {
     id: '6',
     name: 'Minimalist',
-    image: 'src/assets/img6.jpeg',
+    image: 'public/assets/img6.jpeg',
     category: 'Modern'
   },
   {
     id: '7',
     name: 'Bold',
-    image: 'src/assets/img7.png',
+    image: 'public/assets/img7.png',
     category: 'Creative'
   },
   {
     id: '8',
     name: 'Classic',
-    image: 'src/assets/img8.jpeg',
+    image: 'public/assets/img8.jpeg',
     category: 'Traditional'
   },
   {
     id: '9',
     name: 'Modern',
-    image: 'src/assets/img9.jpeg',
+    image: 'public/assets/img9.jpeg',
     category: 'Contemporary'
   }
 ];
