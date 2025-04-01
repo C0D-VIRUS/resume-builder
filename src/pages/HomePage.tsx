@@ -22,31 +22,31 @@ const sampleTemplates = [
   {
     id: '1',
     name: 'Professional',
-    image: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img1.jpeg',
     category: 'Business'
   },
   {
     id: '2',
     name: 'Creative',
-    image: 'https://images.unsplash.com/photo-1512389098783-66b81f86e199?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img2.jpeg',
     category: 'Design'
   },
   {
     id: '3',
     name: 'Technical',
-    image: 'https://images.unsplash.com/photo-1586282391129-76a6df230234?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img3.jpeg',
     category: 'IT & Engineering'
   },
   {
     id: '4',
     name: 'Academic',
-    image: 'https://images.unsplash.com/photo-1532619187608-e5375cab36aa?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img4.jpeg',
     category: 'Education'
   },
   {
     id: '5',
     name: 'Executive',
-    image: 'https://images.unsplash.com/photo-1589384267710-7a170981ca78?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img5.jpeg',
     category: 'Leadership'
   }
 ];

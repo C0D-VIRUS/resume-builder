@@ -24,55 +24,55 @@ const templates: Template[] = [
   {
     id: '1',
     name: 'Professional',
-    image: 'https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img1.jpeg',
     category: 'Business'
   },
   {
     id: '2',
     name: 'Creative',
-    image: 'https://images.unsplash.com/photo-1512389098783-66b81f86e199?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img2.jpeg',
     category: 'Design'
   },
   {
     id: '3',
     name: 'Technical',
-    image: 'https://images.unsplash.com/photo-1586282391129-76a6df230234?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img3.jpeg',
     category: 'IT & Engineering'
   },
   {
     id: '4',
     name: 'Academic',
-    image: 'https://images.unsplash.com/photo-1532619187608-e5375cab36aa?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img4.jpeg',
     category: 'Education'
   },
   {
     id: '5',
     name: 'Executive',
-    image: 'https://images.unsplash.com/photo-1589384267710-7a170981ca78?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img5.jpeg',
     category: 'Leadership'
   },
   {
     id: '6',
     name: 'Minimalist',
-    image: 'https://images.unsplash.com/photo-1542744095-291d1f67b221?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img6.jpeg',
     category: 'Modern'
   },
   {
     id: '7',
     name: 'Bold',
-    image: 'https://images.unsplash.com/photo-1634397539114-c2d114ffe10d?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img7.png',
     category: 'Creative'
   },
   {
     id: '8',
     name: 'Classic',
-    image: 'https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img8.jpeg',
     category: 'Traditional'
   },
   {
     id: '9',
     name: 'Modern',
-    image: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1000&auto=format&fit=crop',
+    image: 'src/assets/img9.jpeg',
     category: 'Contemporary'
   }
 ];
