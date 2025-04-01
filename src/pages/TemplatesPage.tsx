@@ -24,55 +24,55 @@ const templates: Template[] = [
   {
     id: '1',
     name: 'Professional',
-    image: 'public/assets/img1.jpeg',
+    image: '/assets/img1.jpeg',
     category: 'Business'
   },
   {
     id: '2',
     name: 'Creative',
-    image: 'public/assets/img2.jpeg',
+    image: '/assets/img2.jpeg',
     category: 'Design'
   },
   {
     id: '3',
     name: 'Technical',
-    image: 'public/assets/img3.jpeg',
+    image: '/assets/img3.jpeg',
     category: 'IT & Engineering'
   },
   {
     id: '4',
     name: 'Academic',
-    image: 'public/assets/img4.jpeg',
+    image: '/assets/img4.jpeg',
     category: 'Education'
   },
   {
     id: '5',
     name: 'Executive',
-    image: 'public/assets/img5.jpeg',
+    image: '/assets/img5.jpeg',
     category: 'Leadership'
   },
   {
     id: '6',
     name: 'Minimalist',
-    image: 'public/assets/img6.jpeg',
+    image: '/assets/img6.jpeg',
     category: 'Modern'
   },
   {
     id: '7',
     name: 'Bold',
-    image: 'public/assets/img7.png',
+    image: '/assets/img7.png',
     category: 'Creative'
   },
   {
     id: '8',
     name: 'Classic',
-    image: 'public/assets/img8.jpeg',
+    image: '/assets/img8.jpeg',
     category: 'Traditional'
   },
   {
     id: '9',
     name: 'Modern',
-    image: 'public/assets/img9.jpeg',
+    image: '/assets/img9.jpeg',
     category: 'Contemporary'
   }
 ];

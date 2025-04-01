@@ -22,31 +22,31 @@ const sampleTemplates = [
   {
     id: '1',
     name: 'Professional',
-    image: 'public/assets/img1.jpeg',
+    image: '/assets/img1.jpeg',
     category: 'Business'
   },
   {
     id: '2',
     name: 'Creative',
-    image: 'public/assets/img2.jpeg',
+    image: '/assets/img2.jpeg',
     category: 'Design'
   },
   {
     id: '3',
     name: 'Technical',
-    image: 'public/assets/img3.jpeg',
+    image: '/assets/img3.jpeg',
     category: 'IT & Engineering'
   },
   {
     id: '4',
     name: 'Academic',
-    image: 'public/assets/img4.jpeg',
+    image: '/assets/img4.jpeg',
     category: 'Education'
   },
   {
     id: '5',
     name: 'Executive',
-    image: 'public/assets/img5.jpeg',
+    image: '/assets/img5.jpeg',
     category: 'Leadership'
   }
 ];
