@@ -35,7 +35,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 h-16 md:h-20 flex items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
           <span className="text-2xl font-bold font-playfair bg-gradient-to-r from-brand-400 to-brand-600 bg-clip-text text-transparent">
-            ProFile
+          ProFile:AI powered Resume Builder
           </span>
         </Link>
 
