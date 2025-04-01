@@ -127,7 +127,7 @@ const HomePage: React.FC = () => {
             <div className="flex flex-col md:flex-row items-center gap-8">
               <div className="w-24 h-24 rounded-full overflow-hidden flex-shrink-0">
                 <img 
-                  src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200&auto=format&fit=crop" 
+                  src="\assets\anishka.jpeg" 
                   alt="Sarah Johnson" 
                   className="w-full h-full object-cover"
                 />
